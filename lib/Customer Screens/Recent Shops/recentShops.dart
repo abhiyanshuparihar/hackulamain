@@ -3,9 +3,9 @@ import 'package:flutter/services.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hackula/Customer%20Screens/All%20Credits%20and%20Settlements%20Page/allCreditsAndSettlementPage.dart';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Customer%20Screens/All%20Credits%20and%20Settlements%20Page/allCreditsAndSettlementPage.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 extension StringCasingExtension on String {
   String capitalizeWords() =>

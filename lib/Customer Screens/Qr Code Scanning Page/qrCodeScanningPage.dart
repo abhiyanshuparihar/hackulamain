@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hackula/Customer%20Screens/Pay%20QR%20Code%20Screen/payqrcodeScreen.dart';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Customer%20Screens/Pay%20QR%20Code%20Screen/payqrcodeScreen.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'package:image_picker/image_picker.dart';
 

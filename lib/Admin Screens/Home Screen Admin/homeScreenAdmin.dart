@@ -1,14 +1,14 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hackula/Admin%20Screens/Distributers%20Registration%20Page/distributersRegistrationPage.dart';
-import 'package:hackula/Admin%20Screens/Manufacturer%20Registration%20Page/registerManufacturer.dart';
-import 'package:hackula/Admin%20Screens/Warehousing%20Registration%20Page/wareHousingRegistrationPage.dart';
-import 'package:hackula/Admin%20Screens/WholeSalers%20Registration%20Page/wholeSalersRegistrationPage.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Admin%20Screens/Distributers%20Registration%20Page/distributersRegistrationPage.dart';
+import 'package:hackula1/Admin%20Screens/Manufacturer%20Registration%20Page/registerManufacturer.dart';
+import 'package:hackula1/Admin%20Screens/Warehousing%20Registration%20Page/wareHousingRegistrationPage.dart';
+import 'package:hackula1/Admin%20Screens/WholeSalers%20Registration%20Page/wholeSalersRegistrationPage.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
 import 'dart:math' as math;
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 class AdminHomeScreen extends StatefulWidget {
   @override

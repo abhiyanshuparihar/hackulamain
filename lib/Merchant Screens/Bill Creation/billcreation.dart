@@ -6,8 +6,8 @@ import 'package:mobile_scanner/mobile_scanner.dart';
 import 'package:screenshot/screenshot.dart';
 import 'package:gal/gal.dart';
 import 'dart:typed_data';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 // --- Product Data Model ---
 class Product {

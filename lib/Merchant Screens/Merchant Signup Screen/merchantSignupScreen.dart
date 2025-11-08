@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:hackula/Merchant%20Screens/Shop%20Creation%20Screen/shopCreationScreen.dart';
+import 'package:hackula1/Merchant%20Screens/Shop%20Creation%20Screen/shopCreationScreen.dart';
 import 'dart:ui';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 class MerchantRegistrationPage extends StatefulWidget {
   @override

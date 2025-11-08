@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466932017871",
+    "project_id": "hackula1",
+    "storage_bucket": "hackula1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466932017871:android:5f69069852926a3383e5ba",
+        "android_client_info": {
+          "package_name": "com.example.hackula1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_rtpM1xlFtzf8wyV_C60NbAL86TkH7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

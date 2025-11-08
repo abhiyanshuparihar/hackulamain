@@ -2,17 +2,17 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:hackula/Common%20Screens/Help%20and%20Support/helpandSupport.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:hackula/Customer%20Screens/My%20Profile%20Section/myProfileSection.dart';
-import 'package:hackula/Customer%20Screens/Pay%20Contact%20Screen/payContactScreen.dart';
-import 'package:hackula/Customer%20Screens/Pay%20UPI%20ID%20Screen/payUpiIdScree.dart';
-import 'package:hackula/Customer%20Screens/Qr%20Code%20Scanning%20Page/qrCodeScanningPage.dart';
-import 'package:hackula/Customer%20Screens/Recent%20Credits%20Screen/recentCredits.dart';
-import 'package:hackula/Customer%20Screens/Recent%20Settlements%20Pages/Room%20Showing%20Page/showingallRooms.dart';
-import 'package:hackula/Customer%20Screens/Recent%20Shops/recentShops.dart';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Common%20Screens/Help%20and%20Support/helpandSupport.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Customer%20Screens/My%20Profile%20Section/myProfileSection.dart';
+import 'package:hackula1/Customer%20Screens/Pay%20Contact%20Screen/payContactScreen.dart';
+import 'package:hackula1/Customer%20Screens/Pay%20UPI%20ID%20Screen/payUpiIdScree.dart';
+import 'package:hackula1/Customer%20Screens/Qr%20Code%20Scanning%20Page/qrCodeScanningPage.dart';
+import 'package:hackula1/Customer%20Screens/Recent%20Credits%20Screen/recentCredits.dart';
+import 'package:hackula1/Customer%20Screens/Recent%20Settlements%20Pages/Room%20Showing%20Page/showingallRooms.dart';
+import 'package:hackula1/Customer%20Screens/Recent%20Shops/recentShops.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 import 'dart:math' as math;
 
 

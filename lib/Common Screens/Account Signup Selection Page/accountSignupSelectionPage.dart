@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hackula/Customer%20Screens/Customer%20Signup%20Screen/customerSignupScreen.dart';
-import 'package:hackula/Merchant%20Screens/Merchant%20Signup%20Screen/merchantSignupScreen.dart';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Customer%20Screens/Customer%20Signup%20Screen/customerSignupScreen.dart';
+import 'package:hackula1/Merchant%20Screens/Merchant%20Signup%20Screen/merchantSignupScreen.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 class AccountTypeScreen extends StatefulWidget{
   @override

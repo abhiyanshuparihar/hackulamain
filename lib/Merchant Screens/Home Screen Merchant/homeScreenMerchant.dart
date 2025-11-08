@@ -2,13 +2,13 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:hackula/Merchant%20Screens/Bill%20Creation/billcreation.dart';
-import 'package:hackula/Merchant%20Screens/Cash%20Credit%20Request/cashCreditRequest.dart';
-import 'package:hackula/Merchant%20Screens/Recent%20Persons%20of%20Credit/recentPersonofCredit.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Merchant%20Screens/Bill%20Creation/billcreation.dart';
+import 'package:hackula1/Merchant%20Screens/Cash%20Credit%20Request/cashCreditRequest.dart';
+import 'package:hackula1/Merchant%20Screens/Recent%20Persons%20of%20Credit/recentPersonofCredit.dart';
 import 'dart:math' as math;
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 class MerchantHomeScreen extends StatefulWidget {
   @override

@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:hackula/Manufacturer%20Screens/Manufacturer%20Qr%20creation%20and%20download%20feature/qrCreationandDownload.dart';
-import 'package:hackula/Manufacturer%20Screens/Scanning%20Page/scanQr.dart';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Manufacturer%20Screens/Manufacturer%20Qr%20creation%20and%20download%20feature/qrCreationandDownload.dart';
+import 'package:hackula1/Manufacturer%20Screens/Scanning%20Page/scanQr.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 import 'package:intl/intl.dart';
 import 'dart:math' as math;
 

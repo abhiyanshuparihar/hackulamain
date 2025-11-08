@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hackula/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 import 'dart:ui';
 import 'dart:async';
 

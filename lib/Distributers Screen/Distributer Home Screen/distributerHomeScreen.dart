@@ -2,11 +2,11 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:hackula/Distributers%20Screen/Scanning%20and%20Saving%20Page/scanningAndSavingPage.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Distributers%20Screen/Scanning%20and%20Saving%20Page/scanningAndSavingPage.dart';
 import 'dart:math' as math;
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
 
 class ParentProductData {
   final String parentId;

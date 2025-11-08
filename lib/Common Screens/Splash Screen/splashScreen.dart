@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:hackula/Admin%20Screens/Home%20Screen%20Admin/homeScreenAdmin.dart';
-import 'package:hackula/Common%20Screens/Login%20Screen/loginScreen.dart';
-import 'package:hackula/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
-import 'package:hackula/Distributers%20Screen/Distributer%20Home%20Screen/distributerHomeScreen.dart';
-import 'package:hackula/Manufacturer%20Screens/Manufacturer%20Home%20Screen/manufacturerHomeScreen.dart';
-import 'package:hackula/Merchant%20Screens/Home%20Screen%20Merchant/homeScreenMerchant.dart';
+import 'package:hackula1/Admin%20Screens/Home%20Screen%20Admin/homeScreenAdmin.dart';
+import 'package:hackula1/Common%20Screens/Login%20Screen/loginScreen.dart';
+import 'package:hackula1/Customer%20Screens/Home%20Screen%20Customer/homeScreenCustomer.dart';
+import 'package:hackula1/Distributers%20Screen/Distributer%20Home%20Screen/distributerHomeScreen.dart';
+import 'package:hackula1/Manufacturer%20Screens/Manufacturer%20Home%20Screen/manufacturerHomeScreen.dart';
+import 'package:hackula1/Merchant%20Screens/Home%20Screen%20Merchant/homeScreenMerchant.dart';
 import 'dart:async';
-import 'package:hackula/UI%20Helper/Colors/colors.dart';
-import 'package:hackula/UI%20Helper/Gradients/gradients.dart';
-import 'package:hackula/Warehousing%20Screens/Warehousing%20Home%20Screen/wareHousingHomeScreen.dart';
-import 'package:hackula/WholeSalers%20Screen/WholeSalers%20Home%20Screen/wholeSalersHomeScreen.dart';
+import 'package:hackula1/UI%20Helper/Colors/colors.dart';
+import 'package:hackula1/UI%20Helper/Gradients/gradients.dart';
+import 'package:hackula1/Warehousing%20Screens/Warehousing%20Home%20Screen/wareHousingHomeScreen.dart';
+import 'package:hackula1/WholeSalers%20Screen/WholeSalers%20Home%20Screen/wholeSalersHomeScreen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
